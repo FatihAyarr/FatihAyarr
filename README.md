@@ -4,7 +4,6 @@ Hi 👋 My name is Fatih Ayar
 Data Scientist/Analyst
 ----------------------
 
-Data Scientist | Python SQL | Help businesses make data-driven decisions and build AI-Powered data products.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [mfayar28@gmail.com](mailto:mfayar28@gmail.com)
